@@ -1,8 +1,7 @@
-fun main() {
-    var name: String
-    var age: Int
-    name = "Павел"
-    age = 44
-    println(name)
-    println(age)
+fun main(){
+    var a = 6
+    var b = 4
+    var c = 8
+    var d = a * b * c
+    println("Объем равен: $d")
 }
